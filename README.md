@@ -1,4 +1,4 @@
-# 2D Gate Packing Algorithm (COL215 Assignment 1)
+# COL215 Software Assignment 1: 2D Gate Packing Algorithm
 
 **Authors:** Aditya Narware, Anirudha Saraf
 
